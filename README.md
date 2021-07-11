@@ -5,11 +5,14 @@ To run:  click on https://secret-garden-86097.herokuapp.com/
 
 
 To use the application:
-1. follow the requests given by app.
+follow the requests given by app.
+
    like...
    1. Size of shawarama
    2. Toppings
    3. Drinks
+
+
 At the end it will provide a payment link , while clicking on it you will see the "Thank You" message.
 
 

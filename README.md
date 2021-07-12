@@ -5,7 +5,7 @@ To run:  click on https://secret-garden-86097.herokuapp.com/
 
 
 To use the application:
-follow the requests given by app.
+Firstly, clear the window then follow the request message given by application.
 
    like...
    1. Size of shawarama
